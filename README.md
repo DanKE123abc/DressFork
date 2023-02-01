@@ -2,8 +2,8 @@
 
 ### DressFork - A Study and Practice project of git.(Fork)
 [![License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![star](https://github.com/DanKE123abc/DressForkbadge/star.svg?theme=dark)](https://github.com/DanKE123abc/DressFork)
-[![fork](https://github.com/DanKE123abc/DressForkuh5/badge/fork.svg?theme=dark)](https://github.com/DanKE123abc/DressFork)
+![star](https://img.shields.io/github/stars/DanKE123abc/DressFork?style=social)
+![fork](https://img.shields.io/github/forks/DanKe123abc/DressFork?style=social)
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/DanKE123abc/DressFork.svg)
 
 ## 关于本仓库
